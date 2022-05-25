@@ -1,4 +1,4 @@
-# Github-5-Letter-Username-Sniper
+# Roblox-Unclaimed-Group-Sniper
 
 Setup:
 
