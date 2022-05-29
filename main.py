@@ -1,3 +1,9 @@
+try:
+    import os
+    from os import system
+    system("title " + "Roblox Unclaimed Group Sniper")
+except:
+    pass
 anyerror = False
 try:
     import requests
