@@ -1,7 +1,7 @@
 try:
     import os
     from os import system
-    system("title " + "Roblox Unclaimed Group Sniper")
+    system("title " + "Roblox Unclaimed Group Sniper,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 anyerror = False
@@ -30,7 +30,7 @@ import random, time, threading
 try:
     import os
     from os import system
-    system("title " + "Roblox Group Sniper")
+    system("title " + "Roblox Unclaimed Group Sniper,   Made By blob#0005,    Github: github.com/blob0005")
 except:
     pass
 colorama.init(autoreset=True)
